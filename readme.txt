@@ -4,3 +4,4 @@ hello master
 from dev
 add 1
 add xiaohong
+add xiaoming
